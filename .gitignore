@@ -1,5 +1,7 @@
 .DS_Store
-dataset/*
+
+dataset/*.gz
+dataset/*.pkl
 # Created by https://www.gitignore.io/api/python,jupyternotebook
 
 ### JupyterNotebook ###
